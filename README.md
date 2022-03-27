@@ -1,0 +1,1 @@
+# street-soccer-user-service
